@@ -1,4 +1,12 @@
-.aboutmeimg {
+.aboutme {
+  font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.aboutme h2 {
+  color: #4aaaa5;
+}
+
+.aboutme img {
   display: block;
   height: auto;
   width: 200px;
