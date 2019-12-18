@@ -1,0 +1,10 @@
+.aboutmeimg {
+  display: block;
+  height: auto;
+  width: 200px;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  margin-top: 30px;
+  float: left;
+}
+/*# sourceMappingURL=styles.css.map */
