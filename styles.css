@@ -6,6 +6,7 @@ body {
   background-color: #4aaaa5;
 }
 
+/* About Me */
 .aboutme {
   font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
   border: 1px solid black;
@@ -27,5 +28,18 @@ body {
           transform: rotate(90deg);
   margin-top: 30px;
   padding: 10px;
+}
+
+/* Footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #666666;
+  color: white;
+  height: 2rem;
+  border-top: 8px solid #4aaaa5;
+  text-align: center;
 }
 /*# sourceMappingURL=styles.css.map */
