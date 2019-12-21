@@ -8,6 +8,10 @@ This is a portfolio page of myself. Is has three sections. An about me page, por
 
  https://shawn220a.github.io/shawn220a2.github.io/
 
+## Screenshot
+
+![Contact Page](https://i.gyazo.com/1b8ac37bef6ad541c57cd3d787e08605.png)
+
 ## Programming Languages Used
 
 * HTML
